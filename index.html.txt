@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+<meta charset="UTF-8">
+<title>App Install</title>
+
+<style>
+body {
+    background: #0b0b0b;
+    font-family: Arial, sans-serif;
+    color: white;
+    text-align: center;
+    padding-top: 40px;
+}
+.card {
+    width: 340px;
+    margin: auto;
+    background: #151515;
+    border-radius: 18px;
+    padding: 20px;
+    box-shadow: 0 0 20px #00ffd5;
+}
+.owner {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+.owner span {
+    color: #00ffd5;
+}
+.btn {
+    display: block;
+    margin: 12px 0;
+    padding: 14px;
+    border-radius: 12px;
+    text-decoration: none;
+    font-weight: bold;
+}
+.open {
+    background: #00ffd5;
+    color: black;
+}
+.lock {
+    background: #333;
+    color: #888;
+    cursor: not-allowed;
+}
+.note {
+    font-size: 13px;
+    color: #aaa;
+    margin-top: 10px;
+}
+</style>
+</head>
+
+<body>
+
+<div class="card">
+
+    <div class="owner">
+        Người sở hữu:<br>
+        <span>drai2275 × dzuo098</span>
+    </div>
+
+    <div class="note">
+        TikTok: @drai2275 × @dzuo098
+    </div>
+
+    <!-- LINK MỞ -->
+    <a class="btn open" href="https://t.me/hackplaykey" target="_blank">
+        Telegram (Nhận hack)
+    </a>
+
+    <a class="btn open" href="https://tiktok.com/@drai2275" target="_blank">
+        TikTok drai2275
+    </a>
+
+    <a class="btn open" href="https://tiktok.com/@dzuo098" target="_blank">
+        TikTok dzuo098
+    </a>
+
+    <hr style="margin:20px 0;border-color:#222;">
+
+    <!-- LINK KHÓA -->
+    <div class="btn lock">
+        Hack Liên Quân (Đã khóa)
+    </div>
+
+    <div class="btn lock">
+        Key Liên Quân (Đã khóa)
+    </div>
+
+    <div class="btn lock">
+        Hack Play Together (Đã khóa)
+    </div>
+
+    <div class="btn lock">
+        Key Play Together (Đã khóa)
+    </div>
+
+    <div class="note">
+        🔒 Các link hack & key đã bị khóa<br>
+        👉 Vào Telegram để được cấp quyền
+    </div>
+
+</div>
+
+</body>
+</html>
